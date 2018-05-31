@@ -1,0 +1,8 @@
+All the files are present under the folder named screens.
+
+screen1: login page , file name:Login
+screen2: dashboard, file name:home
+
+there will be 4 tabs , let's say clicking customers tab it goes to a new screen.
+Clicking on any one of the list/Tab in that screen goes to another page.
+In that screen, there will be another 3 tabs named enrollments,invoices,payments.
