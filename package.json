@@ -1,0 +1,31 @@
+{
+  "name": "Ontro",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.13.1",
+    "react-test-renderer": "16.3.0-alpha.1"
+  },
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "native-base": "^2.4.2",
+    "react": "16.3.0-alpha.1",
+    "react-native": "0.52.0",
+    "react-native-drawer-layout": "^2.0.0",
+    "react-native-size-matters": "^0.1.0",
+    "react-native-smart-picker": "^1.0.4",
+    "react-native-vector-icons": "^4.6.0",
+    "react-native-xtabbar": "^0.2.1",
+    "react-navigation": "^1.5.11",
+    "tcomb-form-native": "^0.6.11"
+  }
+}
